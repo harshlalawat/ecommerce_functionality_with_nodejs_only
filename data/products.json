@@ -1,0 +1,257 @@
+[
+    {
+      "name": "Nike Air Jordan 1 Retro High OG 'Chicago'",
+      "description": "The Nike Air Jordan 1 Retro High OG 'Chicago' is a classic sneaker that features a red, white, and black colorway, with the iconic Nike swoosh on the side. The shoe is made with premium materials and features a comfortable fit, making it a great choice for both casual wear and athletic activities.",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOEqQzB_3zOjlWrXkOnrOu4n_n-9vH8uDISz_I4ZuEGVrU1h6umtu40uZStwui",
+      "price": 175,
+      "sizes": [
+        "M 7",
+        "M 7.5",
+        "M 8",
+        "M 8.5",
+        "M 9",
+        "M 9.5",
+        "M 10",
+        "M 10.5",
+        "M 11",
+        "M 11.5",
+        "M 12",
+        "M 13"
+      ],
+      "id": "07f25b1b-f608-47c3-b95c-6aba787fa074",
+      "available": true
+    },
+    {
+      "name": "Supreme Box Logo Hoodie",
+      "description": "The Supreme Box Logo Hoodie is a stylish and comfortable hoodie that features the iconic Supreme logo on the front. The hoodie is made with high-quality materials and features a comfortable fit, making it a great choice for both casual wear and athletic activities.",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRP7HUqHYSgnyy5LM2lnT1GZMIG3-p6zMNdHIqRSMU18rfPoPis0zMDADxljf9H",
+      "price": 350,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "id": "bcadca4d-d209-4766-a698-e66e1ee60f2c",
+      "available": true
+    },
+    {
+      "name": "iPhone 14 Pro Max",
+      "description": "The iPhone 14 Pro Max is the latest flagship smartphone from Apple, featuring a stunning 6.7-inch OLED display, a powerful A16 processor, and up to 1TB of storage. Capture stunning photos and videos with the triple-camera system, and stay connected with 5G support.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7xvrPSF3VKgxfZVfYFM99IITvPm6uv3nXhG9tJSOcq0qbae19m8jJ1Tkrs8jt",
+      "price": 1499,
+      "sizes": [
+        "128GB",
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      "id": "1cb1f753-a82d-4eea-9a19-cfd14fa79bbb",
+      "available": true
+    },
+    {
+      "name": "MacBook Air M2",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSFBRRKRISSc_vSZ_NtlZCyysPailVstjV2VqFV_k9UGAfjKp_tYs0guUANml4y",
+      "price": 999,
+      "sizes": [
+        "8GB/256GB",
+        "8GB/512GB",
+        "16GB/256GB",
+        "16GB/512GB"
+      ],
+      "id": "ec1c373a-7110-4ecb-8590-e0e47b36a512",
+      "available": true
+    },
+    {
+      "name": "PlayStation 5",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRU0Z61grhYJuOjHckg0R56JUGpDT8ECwIKRUhs7tvqVKqAFrtiOZp7j9GSVrQ",
+      "price": 499,
+      "sizes": [
+        "Disc Edition",
+        "Digital Edition"
+      ],
+      "id": "a967bdb9-5188-4405-842b-9525b6242445",
+      "available": true
+    },
+    {
+      "name": "Xbox Series X",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwpGRzgYsmWCWOwqMnL63D38Kbj3z9m2UTRhXtmZAutZYWGiMaPrMMz4_t9CDe",
+      "price": 499,
+      "sizes": [
+        "Disc Edition",
+        "Digital Edition"
+      ],
+      "id": "c7610086-50ac-4bc2-aaa5-c5bba5260564",
+      "available": true
+    },
+    {
+      "name": "Nintendo Switch OLED",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSCIq__3XYBDOfB9C3sUdqPT1HOR8whxtg61X2Zcw6C-kxLnGOULzLAFB5jWSLK",
+      "price": 349.99,
+      "sizes": [
+        "White",
+        "Neon Blue/Red"
+      ],
+      "id": "0a18d36f-1499-4c3a-aee9-ef6e3d3a6aed",
+      "available": true
+    },
+    {
+      "name": "Samsung Galaxy S23 Ultra",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQ9ywW7O5H6EF5HH9HFz4tKZTgyHJlUjWYDTJAxUIvlBgr3T9O8jAFmGq3fC1B",
+      "price": 1199,
+      "sizes": [
+        "128GB",
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      "id": "19df6bf5-b846-4f73-86ec-d3f980c870c6",
+      "available": true
+    },
+    {
+      "name": "Google Pixel 7 Pro",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSH9IjMDjTDofteau9eZwNFZkLUdBjb76KtyihTp3ujirPGeY6gejAYuQ_JaNI-",
+      "price": 899,
+      "sizes": [
+        "128GB",
+        "256GB",
+        "512GB"
+      ],
+      "id": "8d54e8dc-4df9-429a-a5da-74d303233da1",
+      "available": true
+    },
+    {
+      "name": "Samsung Galaxy S22 Ultra",
+      "description": "The Samsung Galaxy S22 Ultra is a top-tier smartphone with a dynamic AMOLED 2X display, Snapdragon 8 Gen 1 processor, and up to 1TB of storage. It features a quad-camera system and supports 5G connectivity.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYOMfE-V7B4gpAO6iyGy2Xf8Bm5hV3CGs5JFmB20rULRstNfb4ciZCfS7GFc5QMPs2ueM&usqp=CAU",
+      "price": 1299,
+      "sizes": [
+        "128GB",
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      "id": "2cb1f753-a82d-4eea-9a19-cfd14fa79bbb",
+      "available": true
+    },
+    {
+      "name": "Google Pixel 6 Pro",
+      "description": "The Google Pixel 6 Pro is a high-end smartphone with a 6.7-inch OLED display, Snapdragon 888 processor, and up to 512GB of storage. It features a dual-camera system and supports 5G connectivity.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyDN4MvtPxyk8gQwKXoli5PRr9BcEqZYk9SQ&usqp=CAU",
+      "price": 899,
+      "sizes": [
+        "128GB",
+        "256GB",
+        "512GB"
+      ],
+      "id": "3cb1f753-a82d-4eea-9a19-cfd14fa79bbb",
+      "available": true
+    },
+    {
+      "name": "Apple Watch Series 7",
+      "description": "The Apple Watch Series 7 is a stylish and functional smartwatch with a larger, always-on Retina display, advanced health features, and support for fast charging. It comes in a variety of colors and materials, including aluminum, stainless steel, and titanium.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJeUBhHa8V5UfLKmFFVNONMlwOiWy2Ut7F2mAnuOIcuTBr1GViAaGbHOymIHl__HwDlu8&usqp=CAU",
+      "price": 399,
+      "sizes": [
+        "41mm",
+        "45mm"
+      ],
+      "id": "4cb1f753-a82d-4eea-9a19-cfd14fa79bbb",
+      "available": true
+    },
+    {
+      "name": "Samsung Galaxy Watch 4",
+      "description": "The Samsung Galaxy Watch 4 is a versatile smartwatch with a vibrant AMOLED display, advanced health and fitness tracking, and support for Wear OS. It comes in a variety of sizes and styles, including classic and active models.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRpzrZ-r-pY1MPkd5jt82hEWrW_ES_hePDdqyzRDCO9HTxOdak_jXeNU3yLHwEYKz1Y4Y&usqp=CAU",
+      "price": 299,
+      "sizes": [
+        "40mm",
+        "44mm"
+      ],
+      "id": "5cb1f753-a82d-4eea-9a19-cfd14fa79bbb",
+      "available": true
+    },
+    {
+      "name": "Fitbit Sense",
+      "description": "The Fitbit Sense is an advanced health and fitness smartwatch with a built-in EDA sensor, ECG app, and skin temperature tracking. It features a vibrant AMOLED display, built-in GPS, and up to 6 days of battery life.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyYDdmOLA4tLGdFmsRV-laBs8v4PljBpR1PA&usqp=CAU",
+      "price": 299,
+      "sizes": [
+        "One Size",
+        "Two Size"
+      ],
+      "id": "6cb1f753-a82d-4eea-9a19-cfd14fa79bbb",
+      "available": true
+    },
+    {
+      "name": "Bose QuietComfort 45 Wireless Headphones",
+      "description": "The Bose QuietComfort 45 Wireless Headphones are premium over-ear headphones with world-class noise cancellation, clear and balanced sound, and up to 24 hours of battery life. They feature intuitive controls and support for virtual assistants.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdv1qIi7TDofxuo4Ko8OPneLd1F3URsSvVAwQJIgMkQCdNtq9lWnw4c90AqsxG0Of1NJw&usqp=CAU",
+      "price": 329,
+      "sizes": [
+        "Black",
+        "Silver"
+      ],
+      "id": "7cb1f753-a82d-4eea-9a19-cfd14fa79bbb",
+      "available": true
+    },
+    {
+      "name": "Apple AirPods Pro",
+      "description": "The Apple AirPods Pro are high-quality wireless earbuds with active noise cancellation, transparency mode, and customizable fit. They feature adaptive EQ, spatial audio, and up to 4.5 hours of listening time on a single charge.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVZxL9jewcq88I8T8MjOao6rnMCusHEx9uXO2UnWx9nI5voGAS7yvtC_LvNCG40eH7kjU&usqp=CAU",
+      "price": 249,
+      "sizes": [
+        "One Size",
+        "two size"
+      ],
+      "id": "8cb1f753-a82d-4eea-9a19-cfd14fa79bbb",
+      "available": true
+    },
+    {
+      "name": "Sony WF-1000XM4 Wireless Earbuds",
+      "description": "The Sony WF-1000XM4 Wireless Earbuds are premium true wireless earbuds with industry-leading noise cancellation, high-resolution audio, and up to 8 hours of battery life. They feature touch controls and support for virtual assistants.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpR0EF7WwO3a1fOh6EIspbo7aJbflG7tKOVg&usqp=CAU",
+      "price": 279,
+      "sizes": [
+        "Black",
+        "Silver"
+      ],
+      "id": "9cb1f753-a82d-4eea-9a19-cfd14fa79bbb",
+      "available": true
+    },
+    {
+      "name": "GoPro HERO10 Black",
+      "description": "The GoPro HERO10 Black is a high-performance action camera with 5.3K video, 23MP photos, and HyperSmooth 4.0 stabilization. It features a front display, improved low-light performance, and up to 2.5 hours of battery life.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgSAtsrHbBy8zzme4AGjTSLtSxrsW0Wgwrhg&usqp=CAU",
+        "price": 499,
+        "sizes": [
+            "One Size",
+            "two size"
+          ],
+        "id": "10cb1f753-a82d-4eea-9a19-cfd14fa79bbb",
+        "available": true
+        },
+    {
+        "name": "DJI Air 2S Drone",
+        "description": "The DJI Air 2S Drone is a powerful and portable drone with a 1-inch CMOS sensor, 5.4K video, and 20MP photos. It features intelligent shooting modes, obstacle sensors, and up to 31 minutes of flight time.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUcbTi8mhTnomFDrzTbFQYu8LXvTPnc5Xg3Q&usqp=CAU",
+        "price": 999,
+        "sizes": [
+            "One Size",
+            "two size"
+          ],
+        "id": "11cb1f753-a82d-4eea-9a19-cfd14fa79bbb",
+        "available": true
+        },
+        {
+        "name": "Sony A7 IV Mirrorless Camera",
+        "description": "The Sony A7 IV Mirrorless Camera is a versatile and high-performance camera with a 33MP full-frame sensor, 4K video, and 10fps continuous shooting. It features real-time eye autofocus, 5-axis in-body stabilization, and a vari-angle LCD screen.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRve1qugMzVWSRkfU7qDMfiWc6dhKiGPsv6iA&usqp=CAU",
+        "price": 2499,
+        "sizes": [
+            "One Size",
+            "two size"
+          ],
+        "id": "12cb1f753-a82d-4eea-9a19-cfd14fa79bbb",
+        "available": true
+        }
+]

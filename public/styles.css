@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+}
+
+.header{
+    background-color: darkolivegreen;
+}
+
+h1{
+    color: #fff;
+    padding: 10px;
+    margin-top: 0;
+}
+
+.btn, button{
+    background-color: darkolivegreen; 
+  border-radius: 5px;
+  font-size: 1rem;
+  color: white;
+  padding: 7px 18px;
+  text-align: center;
+}
+
+#more-products{
+    display: block;
+    margin: 5px auto;
+}
+
+.product{
+    display: flex;
+    align-items: center;
+}
+
+h3{
+    font-size: 1.5rem;
+    margin : 10px 0;
+}
+
+.original-price{
+    text-decoration: line-through;
+}
+
+.discounted-price{
+    font-weight: bold;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    margin : 0 20px;
+}
+
+#pop-up{
+    display:none;
+}
+
+#exampleModalLabel{
+    flex-basis: 100%;
+}
